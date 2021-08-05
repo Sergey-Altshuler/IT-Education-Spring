@@ -19,7 +19,7 @@
             root
         </property>
         <property name="hibernate.connection.password">
-            root
+            1234
         </property>
         <property name="show_sql">true</property>
         <mapping class="com.Altshuler.model.Student"/>
