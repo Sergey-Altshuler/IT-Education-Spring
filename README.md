@@ -1,2 +1,2 @@
 # IT-Education-Final
-This is my pet project simulating work of IT-education centre
+This is my pet project simulating work of IT-education center
